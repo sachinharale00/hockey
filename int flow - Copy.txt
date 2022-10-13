@@ -1,0 +1,90 @@
+Guy's Please go through following questions and prepare perfect:-
+Note:-More questions will be added in this.
+
+Introduction
+
+--Tell me about yourself ?
+--What are the roles and responsibilities you are handling in your current project?
+--Tell me about your project flow?
+--Which project you are currently working?
+--Tell me about your ETL project flow?
+
+ETL Testing 
+
+Theory
+ 
+---What is ETL testing?
+---What is Data warehouse?
+---What is ETL?
+---What is Data warehouse Architecture?
+---OLTP vs OLAP?
+---What is Normalisation?
+---What Data Models?
+---Relational Vs Dimension Model?
+---Types of Facts?
+---Types of Dimensions?
+---What is Surrogate Key?
+---Data Mapping Document?
+---What is ETL testing types? 
+---What is Test Scenarios vs Test Cases?
+---Roles and Responsibility ?
+
+Practical Questions
+
+---Which ETL tool you are using?
+---Which Database you are using?
+---What is type 0 ,type 1 and type2 tables? 
+---what is Initial load?
+---What is Delta load?
+---What is truncate and load?
+---What is full load?
+---Who runs job for data load in your project?
+---Do you run jobs? if yes how?
+---How you do validation? Manually or Automation?
+---What are the general test scenarios and test cases that you consider while ETL testing?
+---What you do if count is not matching between source and Target table?
+---What you do if data is not matching between source and Target table?
+---How you identify most resent records in Target table?
+---How you identify duplicate records in Target Table?
+---is it okay if data is not matching and still you pass test case?
+---Do you get HLD,DDD,Mapping document from Dev team?
+---What is there in Mapping document?
+---Challenges that you have faced in ETL Testing?
+---Are you involved in Test plan preparation?
+---What is there in Test Plan?
+
+SQL 
+How much you rate yourself in SQL?
+Note:-SQL queries from  basic to intermediate will be asked.
+ Cover all topics in SQL this is must.
+
+
+Defect 
+--Which defect management tool you are using?
+--What you do in JIRA/HPALM?
+--What is defect cycle?
+--How you raise defect?
+--Do you send mail for defect?
+--How you follow up for defect resolution with dev team?
+--How you decide priority of defect?
+
+Unix
+--Where have you used UNIX in your project?
+--What are the commands that you used in your project?
+ 
+Cloud 
+---are you working on cloud project?
+---Please explane your project flow?
+---Which cloud platform?
+---How it is different from conventional RDBMS ?
+
+Python
+Where you are using python in your project?
+Basic questions 
+
+Hadoop
+Did you performed testing in Hadoop?
+tell me about your project flow?
+Basic questions on Hadoop?
+
+Manual all concepts(Ratta)

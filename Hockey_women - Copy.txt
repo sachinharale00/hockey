@@ -1,0 +1,47 @@
+ID	Team	Country	NameF	NameL	Weight	Height	DOB	Hometown	Prov	Pos	Age	HeightFt	HtIn	BMI
+01	Women	Canada	Meghan	Agosta	148	5'7	02-12-1987	Ruthven	Ont.	Forward	34	5.583333333	67	23
+02	Women	Canada	Rebecca	Johnston	148	5'9	9/24/1989	Sudbury	Ont.	Forward	32	5.75	69	22
+03	Women	Canada	Laura	Stacey	156	5'10	05-05-1994	Kleinburg	Ont.	Forward	27	5.833333333	70	22
+04	Women	Canada	Jennifer	Wakefield	172	5'10	6/15/1989	Pickering	Ont.	Forward	32	5.833333333	70	25
+05	Women	Canada	Jillian	Saulnier	144	5'5	03-07-1992	Halifax	N.S.	Forward	29	5.416666667	65	24
+06	Women	Canada	Mélodie	Daoust	159	5'6	01-07-1992	Valleyfield	Que.	Forward	29	5.5	66	26
+07	Women	Canada	Bailey	Bram	150	5'8	09-05-1990	St. Anne	Man.	Forward	31	5.666666667	68	23
+08	Women	Canada	Brianne	Jenner	156	5'9	05-04-1991	Oakville	Ont.	Forward	30	5.75	69	23
+09	Women	Canada	Sarah	Nurse	140	5'8	01-04-1995	Hamilton	Ont.	Forward	26	5.666666667	68	21
+10	Women	Canada	Haley	Irwin	170	5'7	06-06-1988	Thunder Bay	Ont.	Forward	33	5.583333333	67	27
+11	Women	Canada	Natalie	Spooner	180	5'10	10/17/1990	Scarborough	Ont.	Forward	31	5.833333333	70	26
+12	Women	Canada	Emily	Clark	130	5'7	11/28/1995	Saskatoon	Sask.	Forward	25	5.583333333	67	20
+13	Women	Canada	Marie-Philip	Poulin	160	5'7	3/28/1991	Beauceville	Que.	Forward	30	5.583333333	67	25
+14	Women	Canada	Blayre	Turnbull	155	5'7	7/15/1993	Stellarton	N.S.	Forward	28	5.583333333	67	24
+15	Women	Canada	Jocelyne	Larocque	139	5'6	5/19/1988	Ste. Anne	Man.	Defence	33	5.5	66	22
+16	Women	Canada	Brigette	Lacquette	180	5'6	10-11-1992	Mallard	Man.	Defence	29	5.5	66	29
+17	Women	Canada	Lauriane	Rougeau	167	5'8	04-12-1990	Beaconsfield	Que.	Defence	31	5.666666667	68	25
+18	Women	Canada	Laura	Fortino	137	5'4	1/30/1991	Hamilton	Ont.	Defence	30	5.333333333	64	24
+19	Women	Canada	Meaghan	Mikkelson	139	5'9	01-04-1985	St. Albert	Alta.	Defence	36	5.75	69	21
+20	Women	Canada	Renata	Fast	144	5'6	10-06-1994	Burlington	Ont.	Defence	27	5.5	66	23
+21	Women	Canada	Shannon	Szabados	146	5'8	08-06-1986	Edmonton	Alta.	Goalie	35	5.666666667	68	22
+22	Women	Canada	Geneviève	Lacasse	136	5'8	05-05-1989	Kingston	Ont.	Goalie	32	5.666666667	68	21
+23	Women	Canada	Ann-Renée	Desbiens	160	5'9	04-10-1994	La Malbaie	Que.	Goalie	27	5.75	69	24
+49	Women	USA	Cayla	Barnes	145	5'1	01-07-1999	Eastvale	Calif.	Defence	22	5.083333333	61	27
+50	Women	USA	Kacey	Bellamy	145	5'7	4/22/1987	Westfield	Mass.	Defence	34	5.583333333	67	23
+51	Women	USA	Hannah	Brandt	150	5'6	11/27/1993	Vadnais Heights	Minn.	Forward	27	5.5	66	24
+52	Women	USA	Dani	Cameranesi	148	5'5	6/30/1995	Plymouth	Minn.	Forward	26	5.416666667	65	25
+53	Women	USA	Kendall	Coyne	123	5'2	5/25/1992	Palos Heights	Ill.	Forward	29	5.166666667	62	22
+54	Women	USA	Brianna	Decker	150	5'4	5/13/1991	Dousman	Wis.	Forward	30	5.333333333	64	26
+55	Women	USA	Meghan	Duggan	164	5'10	09-03-1987	Danvers	Mass.	Forward	34	5.833333333	70	24
+56	Women	USA	Kali	Flanagan	142	5'4	9/19/1995	Burlington	Mass.	Defence	26	5.333333333	64	24
+57	Women	USA	Nicole	Hensley	155	5'7	6/23/1994	Lakewood	Colo.	Goalie	27	5.583333333	67	24
+58	Women	USA	Megan	Keller	160	5'11	05-01-1996	Farmington	Mich.	Defence	25	5.916666667	71	22
+59	Women	USA	Amanda	Kessel	136	5'5	8/28/1991	Madison	Wis.	Forward	30	5.416666667	65	23
+60	Women	USA	Hilary	Knight	175	5'11	07-12-1989	Sun Valley	Idaho	Forward	32	5.916666667	71	24
+61	Women	USA	Jocelyne	Lamoureux-Davidson	150	5'6	07-03-1989	Grand Forks	N.D.	Forward	32	5.5	66	24
+62	Women	USA	Monique	Lamoureux-Morando	147	5'6	07-03-1989	Grand Forks	N.D.	Forward	32	5.5	66	24
+63	Women	USA	Gigi	Marvin	159	5'8	03-07-1987	Warroad	Minn.	Forward	34	5.666666667	68	24
+64	Women	USA	Sidney	Morin	140	5'5	06-06-1995	Minnetonka	Minn.	Defence	26	5.416666667	65	23
+65	Women	USA	Kelly	Pannek	165	5'8	12/29/1995	Plymouth	Minn.	Forward	25	5.666666667	68	25
+66	Women	USA	Amanda	Pelkey	135	5'3	5/29/1993	Montpelier	Vt.	Forward	28	5.25	63	24
+67	Women	USA	Emily	Pfalzer	125	5'3	6/14/1993	Buffalo	N.Y.	Defence	28	5.25	63	22
+68	Women	USA	Alex	Rigsby	150	5'7	01-03-1992	Delafield	Wis.	Goalie	29	5.583333333	67	23
+69	Women	USA	Maddie	Rooney	145	5'5	07-07-1997	Andover	Minn.	Goalie	24	5.416666667	65	24
+70	Women	USA	Haley	Skarupa	140	5'6	01-03-1994	Rockville	Md.	Forward	27	5.5	66	23
+71	Women	USA	Lee	Stecklein	175	6'0	4/23/1994	Roseville	Minn.	Defence	27	6	72	24

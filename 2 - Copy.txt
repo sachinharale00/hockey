@@ -1,0 +1,38 @@
+ID	WO	District	LeadTech	Service	Rush	ReqDate	WorkDate	Techs	WtyLbr	WtyParts	 LbrHrs 	 PartsCost 	Payment	 Wait 	LbrRate	 LbrCost 	 LbrFee 	 PartsFee 	 TotalCost 	 TotalFee 	ReqDay	WorkDay
+01	A00100	North	Khan	Assess		01-Sep-20	15-Sep-20	2			 0.50 	 360.00 	Account	 14 	140	 70.00 	 70.00 	 360.00 	 430.00 	 430.00 	Tue	Tue
+02	A00101	South	Lopez	Replace		01-Sep-20	04-Sep-20	1			 0.50 	 90.04 	Account	 3 	80	 40.00 	 40.00 	 90.04 	 130.04 	 130.04 	Tue	Fri
+17	A00116	West	Burton	Assess		05-Sep-20	22-Sep-20	1			 1.50 	 48.00 	C.O.D.	 17 	80	 120.00 	 120.00 	 48.00 	 168.00 	 168.00 	Sat	Tue
+18	A00117	Northwest	Burton	Assess		07-Sep-20	10-Sep-20	2			 0.25 	 204.28 	Account	 3 	140	 35.00 	 35.00 	 204.28 	 239.28 	 239.28 	Mon	Thu
+19	A00118	Northwest	Cartier	Replace		08-Sep-20	15-Sep-20	2			 0.50 	 240.00 	Account	 7 	140	 70.00 	 70.00 	 240.00 	 310.00 	 310.00 	Tue	Tue
+20	A00119	Southeast	Khan	Replace		08-Sep-20	17-Sep-20	2			 0.50 	 120.00 	Account	 9 	140	 70.00 	 70.00 	 120.00 	 190.00 	 190.00 	Tue	Thu
+66	A00165	South	Khan	Assess		29-Sep-20	08-Oct-20	2			 0.50 	 54.12 	Account	 9 	140	 70.00 	 70.00 	 54.12 	 124.12 	 124.12 	Tue	Thu
+67	A00166	Northwest	Michner	Deliver		29-Sep-20	21-Oct-20	2			 0.25 	 367.71 	Account	 22 	140	 35.00 	 35.00 	 367.71 	 402.71 	 402.71 	Tue	Wed
+68	A00167	West	Lopez	Assess		29-Sep-20	19-Oct-20	1			 1.50 	 139.04 	Account	 20 	80	 120.00 	 120.00 	 139.04 	 259.04 	 259.04 	Tue	Mon
+69	A00168	West	Khan	Replace		29-Sep-20	27-Oct-20	1			 0.50 	 50.32 	P.O.	 28 	80	 40.00 	 40.00 	 50.32 	 90.32 	 90.32 	Tue	Tue
+36	A00135	Northwest	Khan	Assess		14-Sep-20	24-Sep-20	2			 0.25 	 126.62 	C.O.D.	 10 	140	 35.00 	 35.00 	 126.62 	 161.62 	 161.62 	Mon	Thu
+37	A00136	West	Khan	Replace		14-Sep-20	28-Sep-20	1			 1.50 	 251.00 	Account	 14 	80	 120.00 	 120.00 	 251.00 	 371.00 	 371.00 	Mon	Mon
+38	A00137	Southeast	Cartier	Assess	Yes	14-Sep-20	05-Oct-20	1			 0.50 	 395.28 	P.O.	 21 	80	 40.00 	 40.00 	 395.28 	 435.28 	 435.28 	Mon	Mon
+21	A00120	Central	Cartier	Repair		08-Sep-20	21-Sep-20	1			 1.75 	 475.00 	Account	 13 	80	 140.00 	 140.00 	 475.00 	 615.00 	 615.00 	Tue	Mon
+22	A00121	Southeast	Khan	Replace		08-Sep-20	22-Sep-20	1			 1.75 	 341.00 	C.O.D.	 14 	80	 140.00 	 140.00 	 341.00 	 481.00 	 481.00 	Tue	Tue
+31	A00130	Southwest	Cartier	Replace		11-Sep-20	15-Sep-20	2			 0.50 	 535.62 	C.O.D.	 4 	140	 70.00 	 70.00 	 535.62 	 605.62 	 605.62 	Fri	Tue
+32	A00131	Northwest	Khan	Assess		11-Sep-20	23-Sep-20	2			 0.25 	 24.63 	Account	 12 	140	 35.00 	 35.00 	 24.63 	 59.63 	 59.63 	Fri	Wed
+33	A00132	Northwest	Khan	Replace		11-Sep-20	26-Sep-20	2			 0.50 	 43.26 	Account	 15 	140	 70.00 	 70.00 	 43.26 	 113.26 	 113.26 	Fri	Sat
+34	A00133	West	Khan	Assess		11-Sep-20	06-Oct-20	1			 0.25 	 21.33 	Account	 25 	80	 20.00 	 20.00 	 21.33 	 41.33 	 41.33 	Fri	Tue
+35	A00134	West	Khan	Replace		12-Sep-20	28-Sep-20	1			 1.00 	 0.46 	C.O.D.	 16 	80	 80.00 	 80.00 	 0.46 	 80.46 	 80.46 	Sat	Mon
+08	A00107	South	Lopez	Replace		02-Sep-20	02-Oct-20	1			 0.75 	 35.10 	Account	 30 	80	 60.00 	 60.00 	 35.10 	 95.10 	 95.10 	Wed	Fri
+09	A00108	Northwest	Burton	Deliver		02-Sep-20	01-Oct-20	1			 0.25 	 76.70 	C.O.D.	 29 	80	 20.00 	 20.00 	 76.70 	 96.70 	 96.70 	Wed	Thu
+10	A00109	Central	Khan	Repair	Yes	02-Sep-20	06-Oct-20	1			 1.50 	 374.08 	C.O.D.	 34 	80	 120.00 	 120.00 	 374.08 	 494.08 	 494.08 	Wed	Tue
+11	A00110	West	Burton	Replace		02-Sep-20	08-Dec-20	2			 4.75 	 832.16 	Account	 97 	140	 665.00 	 665.00 	 832.16 	 1,497.16 	 1,497.16 	Wed	Tue
+12	A00111	South	Lopez	Deliver	Yes	03-Sep-20	23-Sep-20	1			 0.25 	 70.21 	Account	 20 	80	 20.00 	 20.00 	 70.21 	 90.21 	 90.21 	Thu	Wed
+13	A00112	West	Burton	Assess		04-Sep-20	30-Sep-20	1			 0.50 	 150.00 	P.O.	 26 	80	 40.00 	 40.00 	 150.00 	 190.00 	 190.00 	Fri	Wed
+14	A00113	Central	Michner	Assess		04-Sep-20	24-Oct-20	2			 1.50 	 275.00 	C.O.D.	 50 	140	 210.00 	 210.00 	 275.00 	 485.00 	 485.00 	Fri	Sat
+15	A00114	Northwest	Khan	Replace	Yes	04-Sep-20	10-Nov-20	1			 0.75 	 938.00 	C.O.D.	 67 	80	 60.00 	 60.00 	 938.00 	 998.00 	 998.00 	Fri	Tue
+16	A00115	South	Lopez	Assess		05-Sep-20	21-Sep-20	1			 0.25 	 61.25 	Account	 16 	80	 20.00 	 20.00 	 61.25 	 81.25 	 81.25 	Sat	Mon
+23	A00122	Northwest	Khan	Assess		08-Sep-20	28-Oct-20	1			 0.75 	 61.18 	C.O.D.	 50 	80	 60.00 	 60.00 	 61.18 	 121.18 	 121.18 	Tue	Wed
+24	A00123	South	Lopez	Replace		08-Sep-20	17-Nov-20	1			 0.50 	 155.39 	Account	 70 	80	 40.00 	 40.00 	 155.39 	 195.39 	 195.39 	Tue	Tue
+25	A00124	Northwest	Michner	Replace	Yes	09-Sep-20	24-Sep-20	2			 0.50 	 204.28 	C.O.D.	 15 	140	 70.00 	 70.00 	 204.28 	 274.28 	 274.28 	Wed	Thu
+26	A00125	South	Lopez	Assess		09-Sep-20	29-Sep-20	1			 0.50 	 37.92 	Account	 20 	80	 40.00 	 40.00 	 37.92 	 77.92 	 77.92 	Wed	Tue
+58	A00157	Southeast	Khan	Assess		23-Sep-20	28-Oct-20	2			 0.50 	 1.17 	C.O.D.	 35 	140	 70.00 	 70.00 	 1.17 	 71.17 	 71.17 	Wed	Wed
+59	A00158	Central	Michner	Assess		24-Sep-20	05-Oct-20	2			 0.75 	 664.79 	Account	 11 	140	 105.00 	 105.00 	 664.79 	 769.79 	 769.79 	Thu	Mon
+93	A00192	Central	Burton	Assess		12-Oct-20	26-Oct-20	2			 1.00 	 128.98 	Account	 14 	140	 140.00 	 140.00 	 128.98 	 268.98 	 268.98 	Mon	Mon
+94	A00193	West	Khan	Replace		12-Oct-20	04-Nov-20	1			 0.50 	 144.00 	P.O.	 23 	80	 40.00 	 40.00 	 144.00 	 184.00 	 184.00 	Mon	Wed
